@@ -1,2 +1,2 @@
 # Lucashoffschmidt.github.io
-Personal portfolio website
+To visit my personal portfolio website, click this link: [Portfolio](Lucashoffschmidt.github.io)
